@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shopreac/static/css/main.2ef65e49.css",
+    "main.js": "/shopreac/static/js/main.1bb06dd7.js",
+    "static/js/787.b46b54c8.chunk.js": "/shopreac/static/js/787.b46b54c8.chunk.js",
+    "static/media/3.png": "/shopreac/static/media/3.06768ffb06528f25ce95.png",
+    "static/media/4.png": "/shopreac/static/media/4.50ed4f5046c0bd84e69d.png",
+    "index.html": "/shopreac/index.html",
+    "main.2ef65e49.css.map": "/shopreac/static/css/main.2ef65e49.css.map",
+    "main.1bb06dd7.js.map": "/shopreac/static/js/main.1bb06dd7.js.map",
+    "787.b46b54c8.chunk.js.map": "/shopreac/static/js/787.b46b54c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef65e49.css",
+    "static/js/main.1bb06dd7.js"
+  ]
+}
